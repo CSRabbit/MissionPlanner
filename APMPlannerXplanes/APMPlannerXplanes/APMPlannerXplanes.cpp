@@ -1,3 +1,11 @@
+/*
+PLUGIN_API int XPluginStart :
+PLUGIN_API void	XPluginStop :
+PLUGIN_API void XPluginDisable :
+PLUGIN_API int XPluginEnable :
+PLUGIN_API void XPluginReceiveMessage :
+*/
+
 #include <string.h>
 #include <math.h>
 #include "XPLMDisplay.h"
